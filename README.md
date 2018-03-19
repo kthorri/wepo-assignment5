@@ -4,6 +4,7 @@
 This is the example npm package.
 
 Note you will need to:
+* .npmignore
 * .babelrc
 * webpack.config.build.js
 * add package script in package.json
