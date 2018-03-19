@@ -1,0 +1,17 @@
+.sunset {
+  position: relative;
+  margin: 10px;
+  width: 600px;
+  height: 300px;
+  background-image: linear-gradient(to top, white, lightblue);
+  overflow: hidden;
+}
+
+.movingSun {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-image: radial-gradient(red, orange, yellow);
+  box-shadow: 0px 0px 5px 5px rgba(255, 255, 0, 0.6);
+}

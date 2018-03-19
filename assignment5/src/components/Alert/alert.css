@@ -1,0 +1,35 @@
+.alert {
+  padding: 20px;
+  width: 450px;
+  color: white;
+  margin: 10px 0;
+}
+
+.alertTitle {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.alertText {
+  font-size: 16px;
+}
+
+.info {
+  background-color: #225bdd;
+  border-bottom: solid 6px #2c4f9f;
+}
+
+.success {
+  background-color: #25be25;
+  border-bottom: solid 6px #0d5b0d;
+}
+
+.warning {
+  background-color: #ee932e;
+  border-bottom: solid 6px #ff8d0e;
+}
+
+.danger {
+  background-color: #ff0e1f;
+  border-bottom: solid 6px #c82d38;
+}
